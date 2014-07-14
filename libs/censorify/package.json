@@ -1,6 +1,6 @@
 {
     "author": "Tony Liu",
-    "name": "censorify-TL",
+    "name": "censorify-tl",
     "version": "0.1.2",
     "description": "Censors words out of text",
     "main": "censortext",
