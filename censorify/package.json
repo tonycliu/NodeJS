@@ -1,0 +1,20 @@
+{
+    "author": "Tony Liu",
+    "name": "censorify-TL",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tonycliu/NodeJS/blob/master/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words",
+        "TL"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
